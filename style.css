@@ -70,6 +70,7 @@ div.col-text{
   display: block;
 }
 
-#mc_embed_signup_scroll{
-  padding: 0 3% 0 0;
+#mailchimpouterdiv{
+  padding-right: 3%;
 }
+
