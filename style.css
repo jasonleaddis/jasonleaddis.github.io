@@ -71,8 +71,5 @@ div.col-text{
 }
 
 #mc_embed_signup_scroll{
-  padding: 0 0 0 0;
-}
-#mc-embedded-subscribe-form {
-  padding: 10px 3% 10px 3%;
+  padding: 0 3% 0 0;
 }
